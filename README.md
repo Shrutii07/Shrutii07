@@ -5,7 +5,7 @@ I am pre-final year undergraduate student of Electronics and Communication Engin
 
 ### More about me
 - 🔭 I am an active member of [IvLabs](https://www.ivlabs.in/), an AI and Robotics community. Check out some of the projects of our growing community [IvLabs](https://github.com/IvLabs).
-- 😄 I’m currently working on stablizing a UAV localisation in outdoor, indoor along with the transition and [Robust Quadcopter Control](https://github.com/IvLabs/robust_quadcopter_control).
+- 😄 I’m currently working on localizing a UAV in outdoor, indoor along with the transition(outdoor -> indoor) and [Robust Quadcopter Control](https://github.com/IvLabs/robust_quadcopter_control).
 - 🌱 I’m interested in Controls and Planning of UAVs.
 
 
