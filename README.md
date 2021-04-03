@@ -1,5 +1,6 @@
 ![GIF](https://github.com/Shrutii07/Shrutii07/blob/main/hi.gif)
 ## Hi there! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrutii07" alt="Shrutii07" /> </p>
 
 I am pre-final year undergraduate student of Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/), who is an aspiring roboticist and an active learner.
 
