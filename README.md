@@ -2,7 +2,7 @@
 ## Hi there! 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shrutii07" alt="Shrutii07" /> </p>
 
-I am a Software Engineer at NatWest Group. I am interested in working at the intersection of machine learning (ML) and development. I completed my undergraduate in Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/).
+I am pursuing my Masters from Georgia Institute of Technology. Previously I worked as a Software Engineer at NatWest Group. I am interested in working at the intersection of machine learning (ML) and development. I completed my undergraduate in Electronics and Communication Engineering at [Visvesvaraya National Institute of Technology (VNIT), Nagpur, India](http://vnit.ac.in/).
 
 
 ### Get in Touch:
