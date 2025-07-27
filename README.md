@@ -19,15 +19,6 @@ I am pursuing my Masters of Science in Computational Science and Engineering fro
 <a target="_blank" href="https://www.youtube.com/channel/UC3OTBsoRdkN58qYLNnGvCCw">
   <img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=+14704528226">
-  <img align="left" alt="Whatsapp" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Whatsapp2_colored_svg-512.png" />
-</a>
-<!-- <a target="_blank" href="https://www.instagram.com/shruti_murarka_/">
-  <img align="left" alt="Instagram" width="26px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" />
-</a> -->
-<!-- <a target="_blank" href="https://www.facebook.com/profile.php?id=100011663962810">
-  <img align="left" alt="Facebook" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-512.png" />
-</a> -->
 </br>
 
 ---
