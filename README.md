@@ -13,12 +13,12 @@ I am pursuing my Masters of Science in Computational Science and Engineering fro
 <a target="_blank" href="https://scholar.google.com/citations?user=EvEASw4AAAAJ&hl=en#d=gs_hdr_drw">
   <img align="left" alt="GoogleScholar" width="26px" src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" />
 </a>
-<a target="_blank" href="mailto:shrutimurarka9@gmail.com">
+<a target="_blank" href="mailto:shrutimurarka05@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png" />
 </a>
-<a target="_blank" href="https://www.youtube.com/channel/UC3OTBsoRdkN58qYLNnGvCCw">
+<!-- <a target="_blank" href="https://www.youtube.com/channel/UC3OTBsoRdkN58qYLNnGvCCw">
   <img align="left" alt="Youtube" width="26px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png" />
-</a>
+</a> -->
 </br>
 
 ---
